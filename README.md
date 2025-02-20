@@ -9,9 +9,10 @@ This is a Streamlit-based **Meeting Calendar App** that extracts meeting details
 - **Memory Retention:** Stores past conversations and extracted meetings for better context.
 - **Event Details:** Each calendar event includes participants and confirmation messages.
 
-## 🖼️ Demo video
-![App Screenshot](https://github.com/ritigit7/Meeting-Scheduler/blob/main/Screencast%20from%2020-02-25%2004-08-37%20PM%20IST.mp4)
-
+## 🖼️ Demo Screenahot
+![App Screenshot](https://github.com/ritigit7/Meeting-Scheduler/blob/main/11.png)
+![App Screenshot](https://github.com/ritigit7/Meeting-Scheduler/blob/main/12.png)
+![App Screenshot](https://github.com/ritigit7/Meeting-Scheduler/blob/main/13.png)
 ---
 
 ## 🛠️ Installation
